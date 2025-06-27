@@ -6,6 +6,7 @@
 
 Для хранения схем используется файл локальной БД SQLite.
 
+## Third party licenses
 >This application uses NuGet packages FontAwesome.Sharp (https://github.com/awesome-inc/FontAwesome.Sharp) and Microsoft.EntityFrameworkCore.Sqlite version 9.0.2.
 >
 >FontAwesome.Sharp is available under the Apache 2.0 license. A copy of the license is available [here](assets/LICENCE.FASharp.txt).
