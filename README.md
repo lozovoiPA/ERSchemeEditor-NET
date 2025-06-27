@@ -3,6 +3,7 @@
 
 ![Скриншот главного окна редактора](assets/interface.png)
 В редакторе поддерживается создание всех элементов классической ER-модели (множества сущностей, связей, значений; атрибуты, роли) в текстовом виде.
+
 Для хранения схем используется файл локальной БД SQLite.
 
 >This application uses NuGet packages FontAwesome.Sharp (https://github.com/awesome-inc/FontAwesome.Sharp) and Microsoft.EntityFrameworkCore.Sqlite version 9.0.2.
